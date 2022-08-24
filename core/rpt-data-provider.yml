@@ -54,7 +54,7 @@ spec:
         - parsed
         - subscribe
   extended-settings:
-    replicas: 80  
+    replicas: 2  
     service:
       enabled: true
       type: NodePort
